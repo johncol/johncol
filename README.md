@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm John, and these are my github stats:
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=johncol)](https://git.io/streak-stats)
+
 <!--
 **johncol/johncol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
